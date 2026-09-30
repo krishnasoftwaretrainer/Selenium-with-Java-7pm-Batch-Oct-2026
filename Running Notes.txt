@@ -1,0 +1,199 @@
+
+Automation Testing:
+------------------Exp 
+Role:Software Test Engineer
+Software Testing:
+To test the developers developed app is working according to given client requirements or not.
+
+Quality App:All testcases are pass. 
+Defect App:All/few testcases are fail.
+
+Goal:To delivery Quality app to Client/Market.
+
+1.Manual Testing
+2.Automation Testing
+
+Washing Cloths:Human Efforts,Washing Machine.
+
+1.Reducing human efforts.
+2.Saves the time.
+
+100Req:Fixed Enhasments/Updations 
+Versions:
+
+Regression Testing: 
+
+Tools:90% 15+ 90% 
+Selenium:Automation Tool
+
+Development+Testing+Cloud
+
+Automation Script:Convert manual testcases into automation script.
+
+AS=Selenium Methods + Core Java Concepts
+Run 
+
+Core Java:Basic Concepts+ OOPS:25days
+Selenium:BAsic Concepts
+		Frame Works:
+		TestNG
+		Data Driven
+		Hybrid
+		POM 
+		BDD Cucumber
+		Git Copilet
+		ChatGPT etc..
+		End-To-End Project
+CI/CD:Git Github Jenkins Git Actions
+
+PDF Notes Running FAQ Tests MI Live  
+
+Good Evening all of you...
+Today Session will starts with in few minutes...
+
+
+
+Automation Tool:Selenium WebDriver
+Programming Language:Core Java 
+IDE:EclipseIDE/IntellijIDE
+Browser's:Chrome Edge FireFox Safari etc.
+
+Sample TestCase:SwagLabs Valid Login 
+Test Steps:
+----------
+Step1:Open Chrome/Edge/Firefox Browser
+Step2:Maximize Browser
+Step3:Enter given URL[Build]
+Step4:Enter Valid Username
+Step5:Enter Valid Password
+Step6:Click on Login Button
+
+URL Verification
+Title Verification
+
+ExceptedURL:https://www.saucedemo.com/
+ActualURL:
+
+
+Day-1:
+-----
+Selenium with Java:
+--------------
+Programming Language Concepts:
+->To develop different types of app.
+->To write automation scripts.
+Java Python .net JS/TS Ruby etc...
+
+Java:Core Java + Advanced Java 
+
+Software Developer
+Software Test Engineer[SDET]
+
+Core:Basics 
+
+Core Java:Basic Concepts + OOPS Concepts
+History of Java:
+---------------
+Alpha and Beta 1995 JG SM OAK Oracle 2009
+
+3 Types of App 
+----------WhatsUP
+1.DeskTop App:.exe download and install
+Java MS-Office Oracle
+ 
+2.Web App:Client-Server:DeskTop LapTop Mobile
+Amazon Zoom etc...
+Browser:URL Uniform Resource Locator 
+https://www.amazon.in 
+Cloud:Gmail
+
+3.Mobile App:Download and Install
+.apk .ios 
+
+4.Enterprise:SBI Security Traffic 
+
+Editions:
+--------
+J2SE:Web + DeskTop Open-Source
+J2EE:Paid 
+J2ME:Mobile/Micro 
+
+New Java Version:Yearly 2 times 
+March:Even Number Version:JDK26 
+September:Odd number version:JDK27
+2027:March:Even Number Version:JDK28
+
+Download and Installation:
+------------------
+https://www.oracle.com/in/java/technologies/downloads/
+
+Temp Versions:
+Stable Version:LTS 
+
+Cor Java:
+--------
+Features of Java 
+Diff C C++ Java 
+
+Pre-Define and User-Define
+KeyWords Same as it is. int  Int INT 
+Rules 
+
+Case-Sensitive:Diff Capital and Small letters
+
+Selenium Script:Windows Mac Linux 
+
+WORA:
+
+Procedure Oriented:C Step by Step 
+Object Oriented:C++ Java
+Class:Templete or Blueprint:Virtuval Object:Physical
+Fruit:Apple Mango Banana
+Selenium: 
+
+Write Java Program:filename.java English
+HUL:English
+MUL:Binary[0 and 1]
+A to Z a to z  0 to 9 SS[@!$@#%#$%#$] 
+Compilation:Checking the Errors 
+Compiler:jdk:jre and jvm javac 
+Translation:HUL->MUL and MUL->HUL
+.class file
+Run/Excute:OutPut
+3+2=5 
+
+Writing the Selenium script .java 
+
+Java or JDK:.exe download and install
+
+Path Setting:
+
+IDE:EclipseIDE .exe 
+2026-03
+2026-06
+2026-09
+2026-12
+
+https://www.eclipse.org/downloads/packages/release/2026-09/r
+
+Syntax and Examples
+
+Syntax:
+class classname
+{
+Main Method()
+{
+Body;
+}
+}
+
+Example:
+------
+WAJP to print Helloworld in output.
+class Helloworld
+{
+public static void main(String args[])
+{
+System.out.println("Hello World");
+}
+}
