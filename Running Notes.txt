@@ -197,3 +197,35 @@ public static void main(String args[])
 System.out.println("Hello World");
 }
 }
+Project
+Package
+Class->One Program
+MainMethod()
+Body->Logic/Code/Script
+
+User-Defined:Rules 
+
+Alphbets, don't Digit or SS[$ _] 
+Use digits from second character onwards 
+does not allows white space 
+
+Small letters Capital Warning 
+
+WJP to perform addition on given two numbers and print output in console.
+30 and 20 
+
+Assignment-1:
+-----------Arithmetic Operations 
+1.WJP to perform addition on given two numbers and print output in console.
+2.WJP to perform subtraction on given two numbers and print output in console.
+3.WJP to perform multiplication on given two numbers and print output in console.
+4.WJP to perform division on given two numbers and print output in console.
+
+int a=30;
+int b=20;
+int c;
+c=a+b;
+System.out.print("Addition of given Two numbers:");
+System.out.println(c);
+System.out.println("Thank You");
+
