@@ -229,3 +229,61 @@ System.out.print("Addition of given Two numbers:");
 System.out.println(c);
 System.out.println("Thank You");
 
+Variables and DataTypes:
+----------------------
+Container:To store different types of values.
+
+Variable declaration and Initialization 
+Syntax:
+datatype variablename=value;
+int a=10; USe 
+int b; No you cant use 
+b=20; Static values are perminet values. 
+int c=scan.nextInt();
+
+Index:0 to n-1 
+Address:1001 1002
+Name:a
+
+Which type of value we are able to store or ready store into variables. 
+int a=10; here 10 is value/data
+
+I.Primitive[Basic]
+A.Numeric:Only plain digits/numbers:without decimal values 
+ex:8765 45678 -9876 -5678
+
+
+a.Plain Numbers 
+i.byte 
+ii.short 
+iii.int 
+iv.long
+
+b.Point Values:687.456  -098.4567
+i.float:
+ii.double: 
+
+B.Non-Numeric
+i.char 
+ii.boolean
+iii.string 
+
+Assignment-2:
+--------------
+1.WAJP to print student details to cover all datatypes.
+2.WAJP to print employee details to cover all datatypes.
+3.WAJP to print customer details to cover all datatypes.
+
+II.Non-Primitive[Advanced]
+Arrays
+Strings
+class 
+object
+oops 
+
+
+
+
+
+
+
