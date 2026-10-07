@@ -281,7 +281,48 @@ class
 object
 oops 
 
+Errors in Java:
+--------------
+Manual and Automation[Tools:Compiler(JVM)]
+IDE:EclipseIDE:
 
+1.Syntax or CompileTime: ; class Class CLASS 
+2.RunTime or Exceptions:
+3.Logical Errors:Calculator 5-3 8 2
+Valid UN and Valid PWD:Login EM 
+
+100% Quality 
+
+Type Casting[Type Conversion]:
+-------------
+Convert the input values from one datatype to another.
+int a=10;
+char gender='F';
+
+1.Implicit/Automatic/Widening:Compiler
+Low datatype to High datatype
+->No data loss:22 22.0  
+byte-short-char-int-long-float-double
+
+ASCII Values:
+
+2.Explicit/Manual/Narrowing:
+High datatype to Low datatype
+-> data loss:22.5 22  
+double-float-long-int-char-short-byte
+
+Operators in Java:
+-----------------
+1.Arithmetic:+ - * / % 
+Priority:First Next 
+High:* / %
+Low:+ -
+
+2.Relational:< <= > >= == !=  
+3.Logical: AND OR NOT 
+4.Assignment: = += -= *= /= %=
+5.Unary: + - ++ --
+6.Ternary: ? :
 
 
 
