@@ -32,6 +32,7 @@ public class Arithmetic {
 		System.out.println(30/10);
 		System.out.println(30%10);
 		
+		System.out.println(20+10*2-55/2);
 	}
 
 }

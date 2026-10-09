@@ -326,5 +326,104 @@ Low:+ -
 
 
 
+Sequential Flow Statements
 
+Control Flow Statements:
+--------------
+Definition
+Syntax
+Flowchart
+Explanation
+Example Program
+
+1.Conditional:
+A.if(Condition):< <= > >= == !=
+a.simple-if():
+b.if-else():
+c.else-if() or ladder-if()
+d.nested if()
+
+a.simple-if():
+------------
+TBS:True Block Statements
+FBS:False Block Statements
+Student Result:Pass 3Pass 2Fail 
+Syntax:
+if(Condition) T/F 
+{
+Body; TBS;
+}
+Null or Blank[No Output]
+
+b.if-else():
+--------
+Syntax:
+if(Condition) T/F 
+{
+Body; TBS; Pass 
+}
+else Fail
+{
+Body; FBS;
+}
+
+c.else-if():ladder-if()
+------------
+Syntax:
+------
+if(Condition) T/F 
+{
+TBS;
+}
+else if(Condition) T/F 
+{
+TBS;
+}
+else if(Condition) T/F 
+{
+TBS;
+}
+else 
+{
+FBS;
+}
+
+d.nested-if():
+-----------
+Syntax:
+------
+if(Condition) Outer 
+{
+if(Condition) Inner 
+{
+Body; TBS;
+}
+else //Inner 
+{
+FBS;
+}
+}
+else Outer  
+{
+FBS;
+}
+
+
+
+
+
+B.switch()
+
+2.Looping:
+--------
+a.for()
+b.while()
+c.do-while()
+d.nested loops
+
+3.Jumping:
+-------
+break;
+continue;
+return; 
 
