@@ -412,14 +412,73 @@ FBS;
 
 
 
-B.switch()
+B.switch():
+---------
+Syntax:
+----
+switch(Condition/Comparison Value)
+{
+case 1:
+{
+Body; TBS;
+break;
+}
+case 2:
+{
+Body;
+break;
+}
+default :
+{
+FBS;
+}
+}
 
-2.Looping:
---------
-a.for()
-b.while()
-c.do-while()
-d.nested loops
+II.Looping or Iterative Statements:
+-----------------------
+1.Conditional Loop
+for():Fixed length of iterations.
+Syntax:
+------
+for(InitialValue;Condition;Increment/Decrement)
+{
+Body;
+}
+
+
+2.Infinite Loop 
+while():
+-----
+Syntax:
+--
+while(true)
+{
+Body;
+}
+or
+InitialValue;
+while(Condition)
+{
+Body;
+Increment/Decrement;
+}
+Entry Control:
+First Condition then execution 
+for()
+while()
+
+Exit Control:
+First one time body execution then checking the condition.
+do-while()
+
+Syntax:
+-------
+InitialValue;
+do
+{
+Body;
+Increment/Decrement;
+}while(Condition);
 
 3.Jumping:
 -------
