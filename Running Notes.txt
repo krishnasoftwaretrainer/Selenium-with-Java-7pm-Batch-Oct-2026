@@ -523,3 +523,38 @@ float perce[]={55.55f,66.66f,77};
 
 1.Single or One Dimension:SR MC or MR SC 
 2.Two or Double or Multi Dimension
+
+Arrays:Collection of elements of same datatype.
+Syntax:
+datatype variablename=value;
+datatype variable=scan.nextMethod();
+
+datatype variablename[]={Value1,Valu2,Valu3,...};
+int htno[]={101,102,103,...};
+float perce[]={55.55f,66.66f,77};
+
+1.Single or One Dimension:SR MC or MR SC 
+2.Two or Double or Multi Dimension
+Arithmetic Operations on Arrays
+
+=============
+
+Strings in Java:
+--------------
+Collection of characters: 'A' 'b' '5' '&'
+"FSDFgg e5^%6" 
+Declaration of String:
+-----------------
+1.String Literal:
+datatype StringVariablename="Value";
+next(); Read values Upto white space 
+nextLine(); Read entire string includes white space.
+
+2.String new KeyWord:
+----
+datatype StringVariablename=new datatype[Size];
+
+String Pool Concepts:
+-------
+
+String Methods:
