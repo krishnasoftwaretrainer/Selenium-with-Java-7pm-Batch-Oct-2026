@@ -558,3 +558,59 @@ String Pool Concepts:
 -------
 
 String Methods:
+
+
+https://www.saucedemo.com/
+
+https://www.saucedemo.coM/ 
+equals():false 
+equalsIgnoreCase():true 
+contains(): 
+Basic Concepts+OOPS Concepts=Core Java 
+
+OOPS Concepts:
+-----------
+1.Re-Usability 
+2.Readability 
+3.Security
+
+Class and Objects
+class ClassName
+{
+Methods(); Compile  Cal 
+}
+MainMethod() Execute 
+{
+Class Calling:Static 
+Object Calling:Instance
+} 
+
+Inside class and Outside MainMethod:Methods 
+
+Method:Block of Code or Set of statements.
+Pre-Define Methods:nextInt() length() 
+User-Define Methods
+Syntax:Method Signature
+ 
+class ClassName
+{
+Accessspecifier Returntype MethodName(Parameters)
+{
+Body; Actual Program
+}
+MainMethod() Execute 
+{
+call method();
+}
+}
+
+Accessspecifier:public private protected default
+
+Static Method:ClassName.MethodName();
+Instance/Non-Static:ObjectName(
+Syntax for Object Creation:
+-----
+ClassName ObjName=new ClassName();
+
+Calculator cal=new Calculator();
+Scanner scan=new Scanner();
