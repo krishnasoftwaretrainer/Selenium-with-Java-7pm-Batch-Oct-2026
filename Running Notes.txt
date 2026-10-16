@@ -614,3 +614,64 @@ ClassName ObjName=new ClassName();
 
 Calculator cal=new Calculator();
 Scanner scan=new Scanner();
+
+Same Package and Same Class 
+[Inside Package and Inside Class]
+
+Same Package and Different Class 
+Inside Package and Outside Class  
+
+Different Package and Different Class 
+Outside Package and Outside Class 
+
+Accessspecifier:
+public:Project Level 
+Same Package and Same Class 
+Same Package and Different Class
+Different Package and Different Class 
+
+private:Class Level
+Same Package and Same Class 
+
+protected:Package Level
+Same Package and Same Class 
+Same Package and Different Class
+
+default:
+Same Package and Same Class 
+Same Package and Different Class
+
+User-Defined Methods:
+------------
+1.Without Returntype and Without Parameters
+2.Without Returntype and With Parameters
+3.With Returntype and Without Parameters
+4.With Returntype and With Parameters
+
+public void Login(String username,String pwd)
+{
+
+}
+VU VP 
+VU IVP
+IVU IVP 
+
+Constructors in Java:
+---------------------
+Class name and Method name should be same
+Constructor belongs to Objects[Non-Static]
+When you are creating the object for class,Constructor automatically invoke it[execute it] 
+Not required manual calling like method
+One class you are able to create only one Constructor
+Constructor does not have any returntype even void also.
+
+Types of Constructors:
+-------------
+1.No-Argument/Parameters Constructor
+2.Parameterized Constructors
+3.Default Constructor
+
+Inheritance 
+Polymorphism 
+Data Abstraction
+Encapsulation 
