@@ -675,3 +675,51 @@ Inheritance
 Polymorphism 
 Data Abstraction
 Encapsulation 
+4 Pillers of OOPS:
+Inheritance 
+Polymorphism 
+Data Abstraction
+Encapsulation 
+
+Inheritance:
+-----------
+Child class acquires the properties from parent class.
+
+Parent/Base/Super:Common Features
+Child/Derived/Sub:Reusing properties from parent class.
+
+Parent:Browser Config 10TC 
+Child1:Browser Config
+Child2:Browser Config
+Child3:Browser Config
+Child3:Browser Config
+---------
+Child1 extends Parent
+Child2 extends Parent
+Child3 extends Parent
+
+IS-A
+
+1.Single Level:Only One Child extends One Parent
+2.Multilevel:
+
+3.Hierarchical:Multiple childs acquires the properties from single parent.
+
+4.Multiple:Single child acquires the properties from multiple parents. 
+
+Polymorphism in Java:
+-----------------
+Poly:Many 
+Morphism:Forms 
+
+1.CompileTime/Static:Method OverLoading  
+2.RunTime/Dynamic:Method OverRiding 
+
+Method OverLoading:One method behaves different ways.
+
+Add():2 3 4 int float
+Method names should be same and different in parameters.
+
+1.Number of Parameters
+2.Different datatypes
+3.Order of parameters
