@@ -723,3 +723,56 @@ Method names should be same and different in parameters.
 1.Number of Parameters
 2.Different datatypes
 3.Order of parameters
+
+Data Abstraction:No Implementation
+---------------
+Security:
+ATM:Withdraw:PIN:
+User:What don't know:How
+Car:Break:
+Message:Hi  
+
+FrontEnd:UI and BackEnd:Implementation 
+ATM:
+Calling:
+Chat:Hi  
+
+No Implementation:Parent Level[FrontEnd]:Check Balance 
+Complete Implementation:Child Level[BackEnd]
+
+1.abstract keyword:0 to 100%
+2.interface:100%
+
+abstract class BankCustomer [UnImplemented + Implemented]
+{
+public abstract void CheckBalance(); UnImplemented
+
+public void BankTime() //Implemented
+{
+Implemented; Body;
+}
+}
+
+class BankDeveloper extends BankCustomer
+{
+public abstract void CheckBalance()
+{
+Body;
+}
+
+RBI:Parent:Instructions:RateOfIntrest:5% 
+SBI:
+HDFC:
+ICICI:
+
+Inheritance:Child as it is follow the parent.
+Method OverRiding:Child overrides the parent.
+Data Abstraction:
+
+Normal Class and Normal Method
+abstract class and abstract method
+
+Interface:
+----
+1.To achieve the 100% data abstraction.
+2.Multiple Inheritance
