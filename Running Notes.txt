@@ -776,3 +776,42 @@ Interface:
 ----
 1.To achieve the 100% data abstraction.
 2.Multiple Inheritance
+
+Exception Handling in Java 
+
+Encapsulation in Java:
+-----------
+Wraping the data 
+
+int balanace;
+
+public void getbalance()
+
+Getter:get:view and Setter:set:update/enter 
+
+Accessspecifiers:private:Same Class 
+
+Bank:Package
+Customer1:Class:accno acname balance:private  10k
+Employee:Class:get set   
+Customer2:
+
+Exception Handling:
+-----------
+CompileTime/Syntax
+RunTime/Exceptions
+Logical
+
+Division: 5/2 5/0 
+
+1.Checked:Compiler: throws 
+InterruptedException
+
+2.Un-Checked:Manully 
+try and catch() 
+ArithmeticException
+NullPointerException
+ArrayIndexOutOfBoundsException
+
+Selenium:
+-------
