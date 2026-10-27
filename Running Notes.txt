@@ -813,5 +813,40 @@ ArithmeticException
 NullPointerException
 ArrayIndexOutOfBoundsException
 
-Selenium:
--------
+Software Testing:
+---------------
+1.Manual Testing
+2.Automation Testing:To test the app by using automation tools.
+Regression Testing
+
+Role:ATE or SDET
+
+To write automation script or To convert the manual testcases into automation script.
+
+Selenium Methods + Core Java Concepts[Logics]
+Automation Tool + Programming Language
+
+Selenium Components: IDE RC WebDriver Grid 
+
+Environment Setup:
+--------------
+Automation Tool:Selenium WebDriver[Library]
+Programming Language:Java 
+Editor[IDE]:EclipseIDE/IntellijIDE
+Browser's:Chrome Edge FireFox Safari
+
+https://www.selenium.dev/downloads/
+
+Open Browser[Chrome/Edge/Firefox]
+Maximize the Browser
+Enter URL:[https://www.saucedemo.com/]
+Enter Valid UserName[standard_user]
+Enter Valid Password[secret_sauce]
+Click on Login Button
+Verify the Test Result[Compare Exp vs Act]
+Close Browser
+
+URL Verification:ExceptedURL vs ActualURL
+Title Verification
+
+Headed and Headless Mode 
