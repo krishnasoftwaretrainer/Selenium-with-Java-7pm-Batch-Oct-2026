@@ -40,7 +40,7 @@ public class URL_Title_Verification {
 		options.addArguments("--headless");
 		WebDriver driver=new EdgeDriver(options); //Polymorphism 
 		//Thread.sleep(2000); //Hold the execution 2s
-		driver.manage().window().maximize()
+		driver.manage().window().maximize();
 		//Thread.sleep(2000);
 		//driver.get("https://www.saucedemo.com/");
 		driver.get("https://developer.salesforce.com/signup");

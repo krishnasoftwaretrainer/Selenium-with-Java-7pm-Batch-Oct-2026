@@ -850,3 +850,79 @@ URL Verification:ExceptedURL vs ActualURL
 Title Verification
 
 Headed and Headless Mode 
+
+URL Verification:ExceptedURL vs ActualURL
+Title Verification
+
+Headed and Headless Mode 
+
+SELENIUM TOPICS:
+----------------
+1. INTRODUCTION OF AUTOMATION TESTING  
+2. BROWSER LAUNCHING:CHROME EDGE FIREFOX 
+3. TITLE AND URL VERIFICATION  
+4. WEB LOCATORS AND WEB ELEMENTS  
+5. FINDELEMENT AND FINDELEMENTS  
+6. WEB DRIVER/WEBELEMENT METHODS  
+7. LOCATORS  
+9. CLEAR METHOD  
+10. RADIO BUTTON  
+11. CHECK BOX  
+12. DROP DOWN  
+14. JAVASCRIPT EXECUTOR  
+15. SCROLL UP AND SCROLL DOWN 
+16. NAVIGATION COMMANDS  
+17. SCREENSHOT 
+18. HEADLESS BROWSER 
+19. KEYBOARD ACTIONS  
+20. MOUSEOVER ACTIONS 
+21. isDisplayed(),isEnabled() and isSelected()
+28. WEB TABLE 
+21. DRAG AND DROP AND RIGHT CLICK  
+23. FRAME HANDLING  
+24. ALERTS  
+26. FILE UPLOADING USING SENDKEYS  
+22. WINDOW HANDLING 
+13. WORKING WITH WINDOWS AND TABS
+25. ASSERTIONS
+29. AUTOIT FRAMEWORK  
+30. TESTNG FRAMEWORK 
+25. WAITS  
+31. MAVEN PROJECT  
+32. DATA DRIVEN FRAMEWORK  
+33. APACHE POI[Excel]  
+34. HYBRID FRAMEWORK  
+35. BDD CUCUMBER FRAMEWORK  
+
+WebElements:
+TextBox:EnterText,Clear,getText:SendKeys  
+TextArea:EnterText,Clear,getText:SendKeys  
+Button:Click:Click
+Link:Click:Click
+Radio Button:Click
+CheckBox:Click 
+DropDown:Select
+
+WebLocators:
+--------
+Direct Locators:
+ID:Unique  
+Name
+ClassName
+TagName 
+LinkText 
+Partial LinkText
+
+Indirect Locators
+CSS Selector 
+XPath:
+1.Absolute:/ [/html/body/div/div/div[2]/div[1]/div/div/form/input]
+2.Relative://
+Syntax://tagname[@attribute="Value"]
+
+WebPage:Operations
+WebLocators
+
+DOM:Document Object Model:HTML Page/Code/Tags
+
+https://learn.qualitythought.in/Account/Login
