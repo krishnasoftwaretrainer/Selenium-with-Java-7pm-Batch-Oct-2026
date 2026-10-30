@@ -926,3 +926,56 @@ WebLocators
 DOM:Document Object Model:HTML Page/Code/Tags
 
 https://learn.qualitythought.in/Account/Login
+
+DOM:Document Object Model:HTML Page/Code/Tags
+
+https://learn.qualitythought.in/Account/Login
+
+isDisplayed(),isEnabled() and isSelected()
+
+Select 
+Index
+Value 
+Label
+
+14. JAVASCRIPT EXECUTOR  
+15. SCROLL UP AND SCROLL DOWN 
+16. NAVIGATION COMMANDS
+
+Scrolling or Scroll WebPage:
+---------------------
+Vertical:
+To to Bottom 
+Bottom to Top 
+Horizontal:
+Right to Left 
+Left to Right 
+
+Specific WebElement
+
+Browser Navigations:
+--------------------
+navigate().to 
+forward 
+backward
+refresh
+
+Screenshots:
+-----------
+
+Basic Concepts:
+
+FrameWorks:
+---------
+TestNG 
+DataDriven:Excel 
+POM:
+Hybrid
+----------
+Maven Project
+BDD Cucumber
+
+CI/CD:Git Github Jenkins GithubActions 
+End-To-End:Project
+
+
