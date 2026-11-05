@@ -35,8 +35,8 @@ public class mouseactions
 		Thread.sleep(1000);
 		
 		Actions action=new Actions(driver);
-		//action.dragAndDrop(dragme, drophere).perform();
-		action.dragAndDropBy(dragme, 0, 50).perform();
+		action.dragAndDrop(dragme, drophere).perform();
+		//action.dragAndDropBy(dragme, 0, 100).perform();
 	}
 	public static void main(String[] args) throws InterruptedException {
 		mouseactions mouse=new mouseactions();
