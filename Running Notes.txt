@@ -978,4 +978,52 @@ BDD Cucumber
 CI/CD:Git Github Jenkins GithubActions 
 End-To-End:Project
 
+File eve =((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+FileUtils.copyFile(eve,new File("C:\\selenium\\Screenshots//screen01.jpg"));
+
+File sc2 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		FileUtil.copyFile(sc2, new File("D:\\Selenium7pmBatch\\Screenshots\\Screenshot2.png"));
+		
+		
+
+
+
+Frames 
+Alerts
+Window Handling
+
+driver.switchTo()
+
+Index 
+Name or ID 
+WebElement
+
+Tab1:154AC008039DB5C3B0BF858E4A8ED072
+Tab2:2FD83F11CA37CBB568A3BDB8E829945F
+Tab3:CE015609F6B7CA4097B5657FD6A9B744
+----------
+Tab1:30129969CC1335D8A9FF5208BD473AA9
+Tab2:8EF33584C4C82F9B71E1F0FA1FDF8584
+Tab3:D9914E15D57F443325ECA3EC3B48DD70
+
+File Upload and Download:
+-------------------
+
+
+Action Class in Selenium:
+-----------------------
+KeyBoard:Type Select Copy Paste Capital tab  
+Mouse:DC RC D DP C H ME 
+
+Build the action
+perform action
+
+Capital Letters:
+Click on Shift:KeyDown()
+Enter Text:SendKeys 
+Release Shift:KeyUp()
+
+Ctrl+A 
+Ctrl+C 
+Ctrl+V 
 
