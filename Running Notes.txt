@@ -1027,3 +1027,42 @@ Ctrl+A
 Ctrl+C 
 Ctrl+V 
 
+TestNg FrameWork:
+---------------
+TestNG:Concepts
+-------
+1. TestNG Library inclusion (.jar / Maven dependency)
+2. No 'main()' method required
+3. TestNG Test Execution(@Test)
+4. Test Results – Pass / Fail count 
+5. HTML Reports – `test-output/index.html`
+6. Test Priority
+7. Invocation count=3
+8. Test suite execution using `testng.xml`
+9. Failed test re-run – `testng-failed.xml`
+10. TestNG Annotations (`@Test`, `@BeforeSuite`, `@AfterSuite`, `@BeforeTest`, `@AfterTest`, `@BeforeClass`, `@AfterClass`, `@BeforeMethod`, `@AfterMethod`, `@BeforeGroups`, `@AfterGroups`)
+11. Data-driven testing (`.properties`, `.xlsx`, `@DataProvider`)
+12. Assertions (Hard, Soft)
+13. Parameters from `testng.xml`
+14. Groups (Smoke, Sanity, Regression)
+15. Parallel execution
+16. Enable / Disable tests
+17. dependsOnMethods
+
+1. TestNG Library inclusion (.jar / Maven dependency)
+Java Project:
+Maven Project
+
+2. No 'main()' method required:
+@Test 
+5Methods:
+
+3. TestNG Test Execution(@Test)
+4. Test Results – Pass / Fail count 
+5. HTML Reports – `test-output/index.html
+HTML 
+Emailble  
+XML 
+
+6. Test Priority
+7. Invocation count=3
