@@ -8,9 +8,9 @@ public class TestNGAnnotations
 {
 	WebDriver driver;
 	
-	//@BeforeMethod
+	@BeforeMethod
 	//@BeforeTest
-	@BeforeClass
+	//@BeforeClass
 	public void BrowserConfig() throws InterruptedException
 	{
 		driver = new ChromeDriver();
@@ -41,9 +41,9 @@ public class TestNGAnnotations
 		driver.findElement(By.xpath("//input[@value=\"Login\"]")).click();
 		
 	}
-	//@AfterMethod
+	@AfterMethod
 	//@AfterTest
-	@AfterClass
+	//@AfterClass
 	public void BrowserTeardown()
 	{
 		driver.close();		

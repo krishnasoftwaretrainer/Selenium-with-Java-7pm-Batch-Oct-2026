@@ -8,7 +8,6 @@
           <include name="BrowserConfig"/>
           <include name="BrowserTeardown"/>
           <include name="SwagBlankLogin"/>
-          <include name="SwagInValidLogin"/>
         </methods>
       </class> <!-- testngscripts.TestNGAnnotations -->
     </classes>
