@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SwagLabsAllTestsSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SwagTest(failed)">
+    <classes>
+      <class name="testsuit.SwagValidValidLogin">
+        <methods>
+          <include name="SwaglabsValidValidLogin"/>
+          <include name="BrowserOpen"/>
+          <include name="BrowserClose"/>
+        </methods>
+      </class> <!-- testsuit.SwagValidValidLogin -->
+    </classes>
+  </test> <!-- SwagTest(failed) -->
+</suite> <!-- Failed suite [SwagLabsAllTestsSuite] -->

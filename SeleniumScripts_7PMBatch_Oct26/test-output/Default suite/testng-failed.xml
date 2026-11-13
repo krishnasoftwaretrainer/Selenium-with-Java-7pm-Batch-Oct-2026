@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testngscripts.TestNGAnnotations">
+      <class name="pom.POM_By_Locators">
         <methods>
-          <include name="BrowserConfig"/>
-          <include name="BrowserTeardown"/>
-          <include name="SwagBlankLogin"/>
+          <include name="LoginSwag"/>
         </methods>
-      </class> <!-- testngscripts.TestNGAnnotations -->
+      </class> <!-- pom.POM_By_Locators -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
