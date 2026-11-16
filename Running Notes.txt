@@ -1066,3 +1066,89 @@ XML
 
 6. Test Priority
 7. Invocation count=3
+
+Test Suit:XML 
+Class1:Tests
+Class2:Tests 
+Class3:Tests  
+
+Correct:No Errors:Pass 
+Errors:Fail 
+
+if()
+
+Assertions:
+----------
+Compare the Excepted with Actual.
+
+1.Hard Assertion
+2.Soft Assertion
+
+assertEquals vs assertNotEquals 
+assertTrue vs assertFalse 
+assertNull vs assertNotNull 
+Properties
+Data Provider
+ApachePOI
+
+Data Driven FrameWork:
+------------------
+Data Provider 
+
+Single set of Test Data:Properties 
+Multiple sets of Test Data:Excel Files 
+
+WorkBook:File 
+Sheet 
+Rows 
+Cells 
+
+InputStream:Read the data from Excel Sheets
+OutputStream:Write/Store the data in Excel Sheets
+
+ApachePOI:
+
+Create the Sheet or Sheets 
+Write data in Single Column
+Write data in Single Row Multiple Columns
+Write data in Multiple Rows Multiple Columns
+
+Read data in Single Column
+Read data in Single Row Multiple Columns
+Read data in Multiple Rows Multiple Columns
+
+.xls 
+.xlsx
+
+Data Driven:
+------------
+End-To-End:SwagLabs App:E-Commerce 
+
+Hybrid:URL(Properties)+TestData(Excel)+Locators(POM) 
+@Test:
+
+Maven Project
+BDD Cucumber
+
+CI/CD:Git Github GithubActions
+
+POM:Page Object Model 
+
+By Class: 
+@findBy 
+
+
+Hybrid FrameWork:
+----------
+DataDriven[TestData] + POM[Locators+Actions] + Properties[URL] = Hybrid
+
+EclipseIDE:Project
+
+Java Project:No Structure[src]
+.jar 
+
+Maven Project:src/test/java src/test/resources
+dependency->.jar 
+
+BDD Cucumber:
+------------s
